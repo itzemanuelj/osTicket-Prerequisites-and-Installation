@@ -28,16 +28,19 @@ Before starting, ensure you have:
 3. Create a **Virtual Machine (VM)** with:
    - **2-4 CPUs** (4 CPUs recommended).
    - Operating System: Windows 10.
+###if you need link o azure vm setup###
 4. **Connect to the VM**:
    - Use **Remote Desktop Protocol (RDP)** with the VM's public IPv4 address.
    - For Mac users, download [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466).
 
-[1](https://i.imgur.com/dx0DlsD.png)
-[2]()
-[3]()
+![1](https://i.imgur.com/dx0DlsD.png)
+![2](https://i.imgur.com/6m3vMHu.png)
+![3](https://i.imgur.com/xX25Ov5.png)
+![3](https://i.imgur.com/u4ZCz1S.png)
 <br>
 
 ### Step 2: Enable Internet Information Services (IIS)
+type run to open powrshell type control
 1. Open the **Control Panel** on your VM.
 2. Navigate to: **Programs** > **Turn Windows Features On or Off**.
 3. Enable **Internet Information Services (IIS)** by checking the box and clicking **OK**.
