@@ -32,7 +32,7 @@ Before starting, ensure you have:
    - Use **Remote Desktop Protocol (RDP)** with the VM's public IPv4 address.
    - For Mac users, download [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466).
 
-[1]()
+[1](https://i.imgur.com/dx0DlsD.png)
 [2]()
 [3]()
 <br>
